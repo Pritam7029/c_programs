@@ -1,0 +1,1 @@
+//wap into imput some number into an array and swap the value of odd position to the value of even position
